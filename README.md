@@ -9,10 +9,10 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 Manual sales reporting was slow and error-prone. This project automates sales analysis and builds an interactive Power BI dashboard to help business stakeholders make data-driven decisions faster.
 
-## 🎯 Key Results
+##  Key Results
 | Metric | Result |
 |--------|--------|
 | Records Analysed | **50,000+** |
@@ -20,7 +20,7 @@ Manual sales reporting was slow and error-prone. This project automates sales an
 | Reporting Time Reduction | **~40%** |
 | Seasonal Patterns Found | **2 peak periods** |
 
-## 📁 Project Structure
+##  Project Structure
 ```
 sales-performance-dashboard/
 ├── data/
@@ -34,13 +34,13 @@ sales-performance-dashboard/
 └── README.md
 ```
 
-## 🔍 Key Insights
+##  Key Insights
 - **Electronics** was the top revenue category (28% of total sales)
 - **Q4** (Oct–Dec) consistently showed peak sales across all years
 - **North region** had highest volume; **West region** had highest avg. order value
 - Month-over-month growth averaged **+3.2%** across the 5-year period
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 git clone https://github.com/VanilPatel/sales-performance-dashboard
 cd sales-performance-dashboard
@@ -48,10 +48,10 @@ pip install -r requirements.txt
 jupyter notebook notebooks/01_Data_Cleaning.ipynb
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **BI Tools** — Power BI (dashboard), Excel (pivot tables)
 - **Database** — SQL (MySQL) for data extraction queries
 
 ---
-⭐ Star this repo if you found it helpful!
+ Star this repo if you found it helpful!
